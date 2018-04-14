@@ -140,7 +140,7 @@ function getProposals(){
 		
 		var a4 = '<span style="float:right;"><b>Votes</b>&nbsp&nbsp: Total Votes: ';
 		var totalVotes = result[7].c[0];
-		var a5 = '&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCurrent Status: ';
+		var a5 = '&nbsp&nbsp&nbsp&nbsp&nbsp&nbspVotes in Favour: ';
     //var currentStatus = result[8].c[0] * result[8].s;
     var hash = result[3];
     var preview_but = ''
